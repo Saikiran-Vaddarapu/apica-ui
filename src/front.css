@@ -1,0 +1,15 @@
+
+.Main{
+   display: flex;
+   justify-content: center; 
+}
+
+.input{
+    padding: 50px;
+    border: 1px solid brown;
+}
+
+.resp{
+    display:block;
+    margin-left: 200px;
+}
